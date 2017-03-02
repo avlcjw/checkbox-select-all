@@ -1,0 +1,26 @@
+{
+  "name": "checkbox.select.all",
+  "version": "1.0.0",
+  "description": "A module of River checkbox, for select all or Anti-election.",
+  "main": "script/checkbox.js",
+  "scripts": {
+    "test": "river test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avlcjw/checkbox-select-all.git"
+  },
+  "keywords": [
+    "checkbox",
+    "select-all",
+    "Anti-election",
+    "River",
+    "river"
+  ],
+  "author": "avlcjw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avlcjw/checkbox-select-all/issues"
+  },
+  "homepage": "https://github.com/avlcjw/checkbox-select-all#readme"
+}
